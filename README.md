@@ -14,7 +14,7 @@ This project is a Log Ingestor and Query Interface designed to efficiently handl
 Getting Started
 
 Clone the repository:
-git clone https://github.com/CHIRAG-GUPTA-987/Dyte-Assignment.git
+git clone https://github.com/apurvjain7827/Dyte-Assignment.git
 cd repository-directory
 
 Install dependencies:
@@ -48,8 +48,8 @@ The searchLogs function performs a search query on the Elasticsearch index based
 
   URL:\*\* `POST http://localhost:3000/auth/register`
   request payload: {
-  "email": "gchirag120@gmail.com",
-  "username": "Chirag987",
+  "email": "apurvjain7827@gmail.com",
+  "username": "Apurv987",
   "password": "abcdefgh"
   }
 
@@ -65,7 +65,7 @@ The searchLogs function performs a search query on the Elasticsearch index based
 
   URL:\*\* `POST http://localhost:3000/auth/login`
   request payload: {
-  "username": "Chirag987",
+  "username": "Apurv987",
   "password": "abcdefgh"
   }
 
